@@ -1,0 +1,5 @@
+What is the capital of France?,Berlin,Madrid,Paris,Rome,C
+Which language is primarily used for web development?,Python,JavaScript,Java,C#,B
+What does CPU stand for?,Central Processing Unit,Central Program Unit,Computer Personal Unit,Central Processing User,A
+Which data structure uses LIFO?,Queue,Stack,Array,Linked List,B
+What is the largest planet in our solar system?,Earth,Mars,Jupiter,Saturn,C
